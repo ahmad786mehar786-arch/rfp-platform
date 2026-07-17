@@ -13,3 +13,4 @@ A high-performance web application designed to streamline the Request for Propos
 - **Role-Based Access:** Secure multi-tenant environments for Clients and Vendors.
 - **Performance Optimized:** Fast rendering architecture designed for handling complex data tables.
 - **Clean Codebase:** Fully typed TypeScript structure adhering to professional production standards.
+<img width="1572" height="1001" alt="RFP_PLATFORM" src="https://github.com/user-attachments/assets/493daa18-5357-4069-a204-831602d837d2" />
